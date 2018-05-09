@@ -1,0 +1,13 @@
+{
+    "bot_properties": {
+        "telegram_token": "",
+        "application_dir": "/tmp/.nesprev-bot/",
+        "proxy": {
+            "address": "http://localhost:3128"
+        },
+        "log": {
+            "folder": "log",
+            "file": "access.log"
+        }
+    }
+}
